@@ -1,1 +1,1 @@
-# -vagrant-vm-wordpress-setup-ubuntu
+# vagrant-vm-wordpress-setup-ubuntu
