@@ -12,6 +12,8 @@
 - GitBash
 
 
-![image](https://user-images.githubusercontent.com/76225409/189494157-8d49ea72-ba76-4c2a-b294-e3d4284eb485.png)
+   ![image](https://user-images.githubusercontent.com/76225409/189494352-9df8b8b6-9be0-416d-9d93-e1feed3ddc9e.png)
+
+
 
 
